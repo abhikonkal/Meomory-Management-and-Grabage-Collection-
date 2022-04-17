@@ -10,3 +10,4 @@ The jupyter File contains Three cells
 
 3.Memory management and Garbage Collection With Mark-sweep-method (As asked showed the relevant matrix)
 
+The seperate .py files are also uploaded
