@@ -1,5 +1,6 @@
 # SL_ASSIGNMENT_NO4_BT20CSE069_KONKAL_ABHINAV
-(Memory management and Garbage Collection)
+
+Memory management and Garbage Collection
 
 
 The jupyter File  named BT20CSE069_KONKAL_ABHINAV_ASSIGNMENT_NO_4 contains Three cells 
